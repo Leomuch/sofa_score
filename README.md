@@ -15,7 +15,8 @@ mendapatkan pembaruan terbaru dari berbagai liga di seluruh dunia.
 
 ### 1. 'main.dart'
 
-"@override
+```dart
+@override
 Widget build(BuildContext context) {
   return MaterialApp(
     debugShowCheckedModeBanner: false,
@@ -26,7 +27,8 @@ Widget build(BuildContext context) {
       '/homePage': (context) => const HomePage(),
     },
   );
-}"
+}
+
 
 Mengembalikan widget MaterialApp sebagai antarmuka pengguna utama.
 Menetapkan rute awal aplikasi dan mendefinisikan rute untuk halaman landing, autentikasi, dan halaman utama.
