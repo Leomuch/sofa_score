@@ -29,7 +29,7 @@ Widget build(BuildContext context) {
   );
 }
 
-'''
+```
 
 
 Mengembalikan widget MaterialApp sebagai antarmuka pengguna utama.
