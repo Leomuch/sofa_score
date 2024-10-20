@@ -27,7 +27,9 @@ Widget build(BuildContext context) {
       '/homePage': (context) => const HomePage(),
     },
   );
-} ```
+}
+
+'''
 
 
 Mengembalikan widget MaterialApp sebagai antarmuka pengguna utama.
