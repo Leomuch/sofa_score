@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:sofa_score/pages/home_app.dart';
 
 class LandingPage extends StatefulWidget {
   const LandingPage({super.key});
